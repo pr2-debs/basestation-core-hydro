@@ -1,5 +1,7 @@
+basestation-core-hydro (1.0.0-trusty) stable; urgency=low
 
 
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Apr 2013 11:30:42 -0700
 
 basestation-core-groovy (0.1.0-precise) stable; urgency=low
 
